@@ -28,4 +28,7 @@ String stg1 =data.getExtras().getString("txt_value");
         }
 
     }
+    public void test(){
+        int i =1+1;
+    }
 }
